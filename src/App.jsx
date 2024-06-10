@@ -15,10 +15,9 @@
  */
 
 function App() {
-
   return (
-    <h1>Start here</h1>
+      <main>
+          <Button text="click here" />
+      </main>
   )
 }
-
-export default App
